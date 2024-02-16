@@ -326,7 +326,7 @@ button:hover {
 .cart-field .item .data strong,
 .cart-field .item .data .price {
     font-size: 30px;
-    margin: 20px 10px 0 0;
+    margin: 20px 20px 0 0;
 }
 .cart-field .data p:first-child strong {
     width: 70%;
